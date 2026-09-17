@@ -7,6 +7,8 @@
 ![라이선스](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)
 ![차시](https://img.shields.io/badge/lessons-01--15-informational)
 
+**문서 사이트** → <https://single-course-lecture.github.io/md-lab-demo/>
+
 ## 미리보기
 
 `day07` 의 흐름도는 **글자 18줄**로 이렇게 그려집니다.
